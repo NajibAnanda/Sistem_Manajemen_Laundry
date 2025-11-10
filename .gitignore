@@ -12,6 +12,7 @@ env/
 # Data transaksi (Rahasia/Privat)
 # File ini akan berbeda di setiap komputer
 data/pesanan.json
+data/layanan.json
 
 # File output/hasil cetak
 # Struk dan Laporan yang dibuat program

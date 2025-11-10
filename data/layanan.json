@@ -1,12 +1,17 @@
 [
-  {
-    "id_layanan": "SRV001",
-    "nama_layanan": "Reguler",
-    "harga_per_kg": 8000
-  },
-  {
-    "id_layanan": "SRV002",
-    "nama_layanan": "Express",
-    "harga_per_kg": 12000
-  }
+    {
+        "id_layanan": "SRV001",
+        "nama_layanan": "Reguler",
+        "harga_per_kg": 8000
+    },
+    {
+        "id_layanan": "SRV002",
+        "nama_layanan": "Express",
+        "harga_per_kg": 12000
+    },
+    {
+        "id_layanan": "SRV004",
+        "nama_layanan": "Kilat ",
+        "harga_per_kg": 10000.0
+    }
 ]
