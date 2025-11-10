@@ -2,5 +2,17 @@
 __pycache__/
 *.pyc
 
+# Virtual Environment
+# (Nama folder venv yang umum)
+venv/
+.venv/
+env/
+.env/
+
 # Data transaksi (Rahasia/Privat)
+# File ini akan berbeda di setiap komputer
 data/pesanan.json
+
+# File output/hasil cetak
+# Struk dan Laporan yang dibuat program
+*.pdf
