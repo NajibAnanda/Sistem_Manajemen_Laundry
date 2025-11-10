@@ -1,0 +1,6 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Data transaksi (Rahasia/Privat)
+data/pesanan.json
